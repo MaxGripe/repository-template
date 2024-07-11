@@ -18,7 +18,7 @@ This repository serves as a template for starting new projects.
 
 ## Getting started
 
-To use this template, click on the **Use this template** button when creating a new repository.
+To use this template, select it from the **Repository template** dropdown when creating a new repository.
 
 ## License
 
