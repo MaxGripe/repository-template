@@ -401,6 +401,9 @@ FodyWeavers.xsd
 *.sln.iml
 .idea/*
 
+# Zed
+.zed/*
+
 # MacOS system file
 .DS_Store
 
