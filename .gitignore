@@ -426,3 +426,6 @@ mono_crash.*.json
 /build/
 cmake-build-*/
 cmake-build-debug/
+*.dSYM/
+*.o
+*.exe
